@@ -36,4 +36,4 @@ Veritabanı dosyası (`.db`) `.gitignore` içerisinde tutulduğu için repositor
 Angular frontend projesi:
 
 **CosmeticClient**
-https://github.com/senakaratss/CosmeticClient
+[https://github.com/senakaratss/CosmeticClient](https://github.com/senakaratss/cosmeticClient)
